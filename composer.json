@@ -1,0 +1,24 @@
+{
+  "name": "milkyway-sdk",
+  "description": "milkyway SDK ",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/themetechs//milkyway-sdk",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "milkyway team",
+      "email": "friends@milkyway.com",
+      "homepage": "https://themetechs.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "load.php"
+    ]
+  },
+  "support": {
+    "issues": "https://github.com/themetechs/milkyway-sdk/issues"
+  }
+}
